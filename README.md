@@ -1,4 +1,4 @@
-## React Template with scss, tailwindcss and modern fonts
+## React Template with tailwindcss, scss and modern fonts
 
 
 ## ( Portfolio )  https://www.nurullokarimov.uz
